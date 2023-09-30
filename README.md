@@ -1,23 +1,24 @@
-# Project 1 - *Wordle*
+# Project 2 - Worble
 
 Submitted by: Mehmet Battal
 
-Wordle is a app that is a replica of the Wordle game on NY Times
+Worble is an app that is a replicate of Wordle
 
-Time spent: 12 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] App displays a keyboard on the screen
-- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [x] User can play a basic version of Wordle, with different goal words each time
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
+
 
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -25,14 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-Video: https://www.loom.com/share/ce74600959564481abf7a185ccfb92aa?sid=afe5a6cf-d2f3-4b4d-8042-e012c6356c0a
-
+https://www.loom.com/share/77be71042a624dfaad057784afa8e733?sid=c28e8a89-de99-4772-9d7e-7ae8700ec37a
 
 ## Notes
 
-I had to learn quite a bit of knowledge on my own. However, it was a fun project to build
+Describe any challenges encountered while building the app.
 
 ## License
 
